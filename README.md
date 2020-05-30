@@ -10,4 +10,5 @@ Qualquer sugistação são bem vindas e o oso dos codigos são livres, portado f
 # Cod. Fonte
 
 *Cruzamento de Media*
+*Momentum*
 
